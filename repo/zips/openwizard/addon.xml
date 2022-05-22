@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="openwizard" name="[COLOR limegreen]Open[/COLOR]Wizard" version="1.4.9" provider-name="drinfernoo">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="openwizard" name="[COLOR limegreen]Open[/COLOR]Wizard" version="1.4.9" provider-name="drinfernoo">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />
@@ -137,22 +137,4 @@
             <fanart>fanart.png</fanart>
         </assets>
     </extension>
-</addon><addon id="shared" name="mward2000.github.io" version="0.0.1" provider-name="mward2000">
-    <extension point="xbmc.addon.repository" name="Example Repository">
-        <dir>
-            <info compressed="false">https://raw.githubusercontent.com/mward2000/mward2000.github.io/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/mward2000/mward2000.github.io/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/mward2000/mward2000.github.io/master/repo/zips/</datadir>
-        </dir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>mward2000.github.io</summary>
-        <description>Shared build for kodi</description>
-        <disclaimer />
-        <platform>all</platform>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon></addons>
+</addon>
