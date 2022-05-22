@@ -1,6 +1,6 @@
 id="plugin.program.aftermath"
 version="2.0.7"
-zip="url.to.wizard"
+zip="https://mward2000.github.io/ward.openwizard-2.0.7.zip"
 
 name="Shared build"
 version="0.0.1"
