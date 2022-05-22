@@ -3,7 +3,7 @@ version="2.0.8"
 zip="https://mward2000.github.io/ward.openwizard-2.0.8.zip"
 
 name="Shared build"
-version="0.0.2"
+version="0.0.3"
 url="https://github.com/mward2000/build/raw/main/my_build.zip"
 minor="http://"
 gui="https://raw.githubusercontent.com/mward2000/build/main/guisettings.xml"
